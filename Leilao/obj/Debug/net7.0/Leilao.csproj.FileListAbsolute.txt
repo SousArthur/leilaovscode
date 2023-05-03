@@ -1,0 +1,30 @@
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.csproj.AssemblyReference.cache
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.AssemblyInfoInputs.cache
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.AssemblyInfo.cs
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.csproj.CoreCompileInputs.cache
+F:\Unip\POO\Leilao\bin\Debug\net7.0\Leilao.exe
+F:\Unip\POO\Leilao\bin\Debug\net7.0\Leilao.deps.json
+F:\Unip\POO\Leilao\bin\Debug\net7.0\Leilao.runtimeconfig.json
+F:\Unip\POO\Leilao\bin\Debug\net7.0\Leilao.dll
+F:\Unip\POO\Leilao\bin\Debug\net7.0\Leilao.pdb
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.dll
+F:\Unip\POO\Leilao\obj\Debug\net7.0\refint\Leilao.dll
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.pdb
+F:\Unip\POO\Leilao\obj\Debug\net7.0\Leilao.genruntimeconfig.cache
+F:\Unip\POO\Leilao\obj\Debug\net7.0\ref\Leilao.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\bin\Debug\net7.0\Leilao.exe
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\bin\Debug\net7.0\Leilao.deps.json
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\bin\Debug\net7.0\Leilao.runtimeconfig.json
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\bin\Debug\net7.0\Leilao.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\bin\Debug\net7.0\Leilao.pdb
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.csproj.AssemblyReference.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.AssemblyInfoInputs.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.AssemblyInfo.cs
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\refint\Leilao.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.pdb
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\Leilao.genruntimeconfig.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Leilao\obj\Debug\net7.0\ref\Leilao.dll
